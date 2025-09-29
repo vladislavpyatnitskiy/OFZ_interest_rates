@@ -1,5 +1,4 @@
-library("rvest")
-library("timeSeries")
+lapply(c("rvest", "timeSeries"), require, character.only = T) # Libs
   
 cbr_data <- function(s, e){ # Yield data for OFZ interest rates
   
@@ -37,4 +36,4 @@ cbr_data <- function(s, e){ # Yield data for OFZ interest rates
   
   v
 }
-cbr_data("14.08.2018", "25.09.2025") # Test
+cbr_data("25.09.2024", "25.09.2025") # Test
