@@ -33,6 +33,10 @@ cbr_data <- function(s, e){ # Yield data for OFZ interest rates
   rownames(v) <- v[,1]
   
   v <- v[,-1]
+
+  for (n in 1:ncol(v)){ v[,n] <- as.numeric(v[,n]) }
+  
+  v <- as.timeSeries(v)
   
   v
 }
