@@ -2,7 +2,7 @@
 
 Welcome to the Repository! Here you find the collection of scripts for OFZ data: from extraction and transformation to analysis and visualisation.
 
-![](https://github.com/vladislavpyatnitskiy/OFZ_interest_rates/blob/main/Russian%20Government%20Bonds%20Plot.png?raw=true)
+![](https://github.com/vladislavpyatnitskiy/OFZ_interest_rates/blob/main/Plots/Russian%20Government%20Bonds%20Plot.png?raw=true)
 Fig. 1. Russian Government Bond Dynamics by Maturity
 
 ```
