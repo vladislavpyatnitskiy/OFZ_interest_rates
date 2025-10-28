@@ -8,6 +8,9 @@ Fig. 1. Russian Government Bond Dynamics by Maturity
 ![](https://github.com/vladislavpyatnitskiy/OFZ_interest_rates/blob/main/Plots/RGB%20SD%20to%20yield.png?raw=true)
 Fig. 2. Scatter Plot of Bonds' Standard Deviation and Average Yield
 
+![](https://github.com/vladislavpyatnitskiy/OFZ_interest_rates/blob/main/Plots/Nelson%20Siegel%20Plot.png?raw=true)
+Fig. 3. Nelson Siegel Fit to Yield Curve
+
 ```
               3M    6M    9M    1Y    2Y    3Y    5Y    7Y   10Y   15Y   20Y   30Y
 2024-09-25 18.63 18.71 18.75 18.76 18.55 18.13 17.21 16.45 15.68 14.95 14.56 14.15
